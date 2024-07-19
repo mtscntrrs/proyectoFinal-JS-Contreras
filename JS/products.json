@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Café",
+        "price": 3000
+    },
+    {
+        "id": 2,
+        "name": "Té",
+        "price": 2500
+    },
+    {
+        "id": 3,
+        "name": "Pastel",
+        "price": 3500
+    },
+    {
+        "id": 4,
+        "name": "Sandwich",
+        "price": 4500
+    }
+]
